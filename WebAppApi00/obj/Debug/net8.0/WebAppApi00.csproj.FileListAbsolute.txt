@@ -6,7 +6,12 @@ C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Web
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\WebAppApi00.runtimeconfig.json
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\WebAppApi00.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\WebAppApi00.pdb
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Google.Protobuf.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Humanizer.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\K4os.Hash.xxHash.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -47,6 +52,7 @@ C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Mic
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\MySql.Data.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\NuGet.Common.dll
@@ -74,8 +80,11 @@ C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\Sys
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\System.Security.Permissions.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\ZstdSharp.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -215,7 +224,13 @@ C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\ru\
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\obj\Debug\net8.0\WebAppApi00.csproj.AssemblyReference.cache
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\obj\Debug\net8.0\WebAppApi00.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApi00\obj\Debug\net8.0\WebAppApi00.AssemblyInfoInputs.cache

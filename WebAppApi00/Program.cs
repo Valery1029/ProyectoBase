@@ -12,7 +12,7 @@ builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSet
 var connectionString =
 builder.Configuration.GetConnectionString("DefaultConnection"); 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-options.UseMySql(builder.Configuration.GetConnectionString("Defaul tConnection"),
+options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
 ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection"))));
 
 
