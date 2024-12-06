@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\helpers\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:helpers\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Helpers\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Helpers\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Helpers\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "Helpers\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:54:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Helpers\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "Helpers\\JwtMiddleware.cs",
