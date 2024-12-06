@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppApiMoto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d3cc9c7c57c25e0d2da0d5001bda2e8b1664813")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77cc1754b2c5490c04a95b4f5074db90d673008f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppApiMoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppApiMoto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

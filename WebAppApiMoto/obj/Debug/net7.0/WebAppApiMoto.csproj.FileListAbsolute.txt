@@ -72,3 +72,4 @@ C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApiMoto\obj\Debug\net7.0\r
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApiMoto\obj\Debug\net7.0\WebAppApiMoto.pdb
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApiMoto\obj\Debug\net7.0\WebAppApiMoto.genruntimeconfig.cache
 C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApiMoto\obj\Debug\net7.0\ref\WebAppApiMoto.dll
+C:\Users\leoes\OneDrive\Escritorio\ProyectoBase\WebAppApiMoto\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
