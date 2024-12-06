@@ -1,25 +1,41 @@
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
+using BlazorApp00.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddRazorPages();
-builder.Services.AddServerSideBlazor();
 
+// Agregar servicios para Razor Pages y Blazor
+builder.Services.AddRazorPages(); 
+builder.Services.AddServerSideBlazor();
+// Configurar HttpClient con la dirección base desde appsettings.json
+builder.Services.AddHttpClient("ConsumoApi", client =>
+{
+    var baseUrl = builder.Configuration["ApiSettings:BaseUrl"]; 
+    if (string.IsNullOrEmpty(baseUrl))
+    {
+        throw new InvalidOperationException("La configuración 'ApiSettings:BaseUrl' no está definida.");
+    }
+
+    client.BaseAddress = new Uri(baseUrl);
+
+});
+
+// Registrar ApiService como servicio inyectable
+builder.Services.AddScoped<ApiService>();
 var app = builder.Build();
 
+// Configuración del middleware en producción
 if (!app.Environment.IsDevelopment())
 {
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-
-app.UseHttpsRedirection();
-
+// Middleware para HTTPS y recursos estáticos
+app.UseHttpsRedirection(); 
 app.UseStaticFiles();
 
 app.UseRouting();
 
-app.MapBlazorHub();
+// Configuración de endpoints de Blazor
+app.MapBlazorHub(); 
 app.MapFallbackToPage("/_Host");
 
 app.Run();
+
