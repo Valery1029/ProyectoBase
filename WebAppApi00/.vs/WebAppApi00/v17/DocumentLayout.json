@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Model\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\AppSettings.cs",
+              "RelativeToolTip": "Model\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:25:07.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Model\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T15:17:39.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T15:17:39.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthenticateResponse.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\AuthenticateResponse.cs",
               "RelativeDocumentMoniker": "Model\\AuthenticateResponse.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthenticateRequest.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\AuthenticateRequest.cs",
               "RelativeDocumentMoniker": "Model\\AuthenticateRequest.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
