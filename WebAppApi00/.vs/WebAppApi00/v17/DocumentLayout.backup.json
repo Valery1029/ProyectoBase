@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebAppApi00",
+              "Title": "WebAppApi00.csproj",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\WebAppApi00.csproj",
               "RelativeDocumentMoniker": "WebAppApi00.csproj",
               "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\WebAppApi00.csproj",
               "RelativeToolTip": "WebAppApi00.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-06T16:06:03.054Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Helpers\\AuthorizeAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T15:54:37.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T15:54:37.437Z"
             },
             {
               "$type": "Document",
