@@ -15,9 +15,13 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b79ddfb42bc58854199606fb32440c832c0351")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21a7a529e1f428558e4badcb8ff4cdca4904ee5c")]
+>>>>>>> Rama1
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2a0fd8ece62d8aa8d4f0f95dea3ad1477fed163")]
 >>>>>>> Rama1
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppApiMoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppApiMoto")]
