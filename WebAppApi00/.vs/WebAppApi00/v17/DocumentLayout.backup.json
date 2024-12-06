@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\webappapi00.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:webappapi00.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:35:48.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WebAppApi00.csproj",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\WebAppApi00.csproj",
               "RelativeDocumentMoniker": "WebAppApi00.csproj",
               "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\WebAppApi00.csproj",
               "RelativeToolTip": "WebAppApi00.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-06T16:06:03.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthorizeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Helpers\\AuthorizeAttribute.cs",
               "RelativeDocumentMoniker": "Helpers\\AuthorizeAttribute.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Helpers\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "Helpers\\JwtMiddleware.cs",
