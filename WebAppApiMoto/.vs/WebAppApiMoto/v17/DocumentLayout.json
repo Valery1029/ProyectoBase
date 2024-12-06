@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\model\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:model\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MotoService.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Services\\MotoService.cs",
               "RelativeDocumentMoniker": "Services\\MotoService.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "Model\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:44:56.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T03:44:56.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Model\\Moto.cs",
               "RelativeDocumentMoniker": "Model\\Moto.cs",
@@ -72,15 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:35:03.549Z"
+              "WhenOpened": "2024-12-06T03:35:03.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MotoService.cs",
+              "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Services\\MotoService.cs",
+              "RelativeDocumentMoniker": "Services\\MotoService.cs",
+              "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Services\\MotoService.cs",
+              "RelativeToolTip": "Services\\MotoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:00:57.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Model\\Moto.cs",
               "RelativeDocumentMoniker": "Model\\Moto.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Model\\Moto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:40:22.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T03:40:22.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:35:03.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T03:35:03.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MotoController.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Controllers\\MotoController.cs",
               "RelativeDocumentMoniker": "Controllers\\MotoController.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "Controllers\\MotoController.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:22:12.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T03:22:12.838Z"
             }
           ]
         }
