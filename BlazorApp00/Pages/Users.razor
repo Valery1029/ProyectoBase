@@ -1,5 +1,61 @@
-﻿<h3>Users</h3>
+﻿@page "/users"
+@using BlazorApp00.Models 
+@using BlazorApp00.Services 
+@inject ApiService ApiService
+@inject NavigationManager NavigationManager
 
+<div style="display: flex; justify-content: space-between; align- items: center;">
+	<h3>Usuarios</h3>
+	<a href="#" @onclick="Logout" style="text-decoration: none; color: blue;">Cerrar Sesión</a>
+</div>
+
+@if (users == null && errorMessage == null)
+{
+	<p>Cargando...</p>
+}
+else if (errorMessage != null)
+{
+	<p style="color:red">@errorMessage</p>
+}
+else
+{
+	<ul>
+		@foreach (var user in users)
+		{
+			<li>@user.FirstName @user.LastName (@user.Username)</li>
+		}
+	</ul>
+}
+ 
 @code {
+	[Parameter]
+	[SupplyParameterFromQuery] // Permite capturar el token de la URL como query parameter
 
+	public string? Token { get; set; }
+	private IEnumerable<User>? users; private string? errorMessage;
+
+	protected override async Task OnInitializedAsync()
+	{
+		if (string.IsNullOrEmpty(Token))
+		{
+			errorMessage = "No se recibió un token válido. Por favor, inicie sesión nuevamente.";
+			return;
+		}
+		try
+		{
+			// Llamar al servicio API con el token JWT 
+			users = await ApiService.GetAllUsers(Token);
+		}
+		catch (Exception ex)
+		{
+			errorMessage = "Error al cargar usuarios. Por favor, verifique su conexión o autenticación.";
+			Console.WriteLine($"Error al cargar usuarios: {ex.Message}");
+		}
+	}
+
+	private void Logout()
+	{
+		// Redirige al usuario a la página de inicio de sesión 
+		NavigationManager.NavigateTo("/");
+	}
 }
