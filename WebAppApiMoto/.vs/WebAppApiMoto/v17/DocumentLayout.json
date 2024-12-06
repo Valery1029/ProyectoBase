@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\services\\imotoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:services\\imotoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapimoto\\model\\addupdatemoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD36437-CFFE-421E-9566-20776E2D5AA6}|WebAppApiMoto.csproj|solutionrelative:model\\addupdatemoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IMotoServices.cs",
+              "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Services\\IMotoServices.cs",
+              "RelativeDocumentMoniker": "Services\\IMotoServices.cs",
+              "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Services\\IMotoServices.cs",
+              "RelativeToolTip": "Services\\IMotoServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:41:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AddUpdateMoto.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Model\\AddUpdateMoto.cs",
               "RelativeDocumentMoniker": "Model\\AddUpdateMoto.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApiMoto\\Model\\Moto.cs",
               "RelativeDocumentMoniker": "Model\\Moto.cs",
