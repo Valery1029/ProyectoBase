@@ -3,74 +3,62 @@ namespace WebAppApiMoto.Services
 {
     public class MotoService : IMotoService
     {
-        private readonly List<Moto> _motosList; 
-        public MotoService()
+        private readonly ApplicationDbContext _context;
+
+        public MotoService(ApplicationDbContext context)
         {
-            _motosList = new List<Moto>
-            {
-                new Moto
-                {
-                Id = 1,
-                Codigo = "12345", 
-                Marca = "Suzuki", 
-                Descripcion = "Gixxer 250",
-                Modelo = 2024,
-                Precio = 100, 
-                Disponible = true
-                }
-            };
+            _context = context;
         }
 
-        public Moto AddMoto(AddUpdateMoto obj)
+        public Moto AddMoto(AddUpdateMoto motoData)
         {
             var newMoto = new Moto
             {
-                Id = _motosList.Any() ? _motosList.Max(mot
-                => mot.Id) + 1 : 1,
-                Codigo = obj.Codigo,
-                Marca = obj.Marca,
-                Descripcion = obj.Descripcion,
-                Modelo = obj.Modelo,
-                Precio = obj.Precio,
-                Disponible = obj.Disponible,
+                Codigo = motoData.Codigo,
+                Marca = motoData.Marca,
+                Descripcion = motoData.Descripcion,
+                Modelo = motoData.Modelo,
+                Precio = motoData.Precio,
+                Disponible = motoData.Disponible
             };
 
-            _motosList.Add(newMoto); return newMoto;
+            _context.Motos.Add(newMoto);
+            _context.SaveChanges(); return newMoto;
         }
 
         public bool DeleteMotoByID(int id)
         {
-            var motoIndex = _motosList.FindIndex(mot => mot.Id == id);
-            if (motoIndex >= 0)
-            {
-                _motosList.RemoveAt(motoIndex); return true;
-            }
-            return false;
-        }
+            var moto = _context.Motos.Find(id);
+            if (moto == null) return false;
 
-        public List<Moto> GetAllMotos(bool? Disponible)
+            _context.Motos.Remove(moto);
+            _context.SaveChanges();
+            return true;
+        }
+        public List<Moto> GetAllMotos(bool? Disponible = null)
         {
-            return Disponible == null ? _motosList :
-            _motosList.Where(mot => mot.Disponible == Disponible).ToList();
+            return Disponible == null
+            ? _context.Motos.ToList()
+            : _context.Motos.Where(mot => mot.Disponible == Disponible).ToList();
         }
 
         public Moto? GetMotoByID(int id)
         {
-            return _motosList.FirstOrDefault(mot => mot.Id == id);
+            return _context.Motos.Find(id);
         }
 
-        public Moto? UpdateMoto(int id, AddUpdateMoto obj)
+        public Moto? UpdateMoto(int id, AddUpdateMoto motoData)
         {
-            var moto = _motosList.FirstOrDefault(mot => mot.Id == id);
+            var moto = _context.Motos.Find(id);
             if (moto == null) return null;
 
-            moto.Codigo = obj.Codigo; 
-            moto.Marca = obj.Marca;
-            moto.Descripcion = obj.Descripcion;
-            moto.Modelo = obj.Modelo;
-            moto.Precio = obj.Precio;
-            moto.Disponible = obj.Disponible;
+            moto.Codigo = motoData.Codigo;
+            moto.Marca = motoData.Marca;
+            moto.Descripcion = motoData.Descripcion;
+            moto.Precio = motoData.Precio;
+            moto.Disponible = motoData.Disponible;
 
+            _context.SaveChanges();
             return moto;
         }
     }
