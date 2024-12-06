@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|solutionrelative:pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Users.razor",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\Pages\\Users.razor",
               "RelativeDocumentMoniker": "Pages\\Users.razor",
               "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\Pages\\Users.razor",
               "RelativeToolTip": "Pages\\Users.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T18:51:45.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Pages\\Index.razor",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Pages\\Index.razor",
               "ViewState": "AgIAACAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T18:51:13.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T18:51:13.944Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Services\\ApiService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:45:24.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T18:45:24.995Z"
             }
           ]
         }
