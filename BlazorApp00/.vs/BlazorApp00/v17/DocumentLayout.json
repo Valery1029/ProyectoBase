@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|solutionrelative:models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|solutionrelative:models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FB568E-1BAE-4489-AA65-2C0BA9009155}|BlazorApp00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\blazorapp00\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthenticateResponse.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\Models\\AuthenticateResponse.cs",
               "RelativeDocumentMoniker": "Models\\AuthenticateResponse.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthenticateRequest.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\Models\\AuthenticateRequest.cs",
               "RelativeDocumentMoniker": "Models\\AuthenticateRequest.cs",
@@ -55,20 +55,20 @@
               "RelativeToolTip": "Models\\AuthenticateRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:37:16.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T18:37:16.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\BlazorApp00\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:36:55.595Z"
+              "WhenOpened": "2024-12-06T18:36:55.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
