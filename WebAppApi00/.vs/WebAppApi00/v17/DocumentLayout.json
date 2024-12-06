@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|c:\\users\\leoes\\onedrive\\escritorio\\proyectobase\\webappapi00\\model\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12F50808-9BD3-4533-9CC1-045DBB30CE8D}|WebAppApi00.csproj|solutionrelative:model\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "Model\\AuthenticateResponse.cs",
+              "ToolTip": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\AuthenticateResponse.cs",
+              "RelativeToolTip": "Model\\AuthenticateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:14:49.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthenticateRequest.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\AuthenticateRequest.cs",
               "RelativeDocumentMoniker": "Model\\AuthenticateRequest.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\leoes\\OneDrive\\Escritorio\\ProyectoBase\\WebAppApi00\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T15:09:36.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T15:09:36.966Z"
             }
           ]
         }
