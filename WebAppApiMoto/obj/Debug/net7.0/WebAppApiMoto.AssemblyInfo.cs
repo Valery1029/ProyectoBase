@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppApiMoto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c1376c16ff2aaabba91006808c19f774b5f368")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8019f6a7b6d58f7080ee452751a1a8d9fc6fc21e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppApiMoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppApiMoto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
